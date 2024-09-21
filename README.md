@@ -5,15 +5,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cef32dbf-f26f-4865-84a9-b85a439c9994/deploy-status)](https://app.netlify.com/sites/ulems/deploys)
 ![Hits](https://dikit.my.id/0b3y8q)
 
-## Demo
-
-<https://ulems.my.id?to=Teman+teman+semua>
-
-## Deployment API
-
-- Presentation
-    [https://docs.google.com/presentation/d/1EY2YmWdZUI7ASoo0f2wvU7ec_Yt0uZanYa8YLbfNysk/edit](https://docs.google.com/presentation/d/1EY2YmWdZUI7ASoo0f2wvU7ec_Yt0uZanYa8YLbfNysk/edit)
-
 ## Tech stack
 
 - Bootstrap 5.3.3
